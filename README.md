@@ -4,7 +4,7 @@ Hi 👋 My name is Hadar Zaguri
 Full Stack Developer
 --------------------
 
-currently I'm a Full stack (MERN) and unity developer. Also, I'm a 1st year computer science student.
+I'm a Full stack (MERN) and unity developer. Also, I'm a 1st year computer science student.
 
 * 🌍  I'm based in Israel
 * 🧠  I'm learning React & NODEJS & MongoDB
