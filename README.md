@@ -4,7 +4,7 @@ Hi 👋 My name is Hadar Zaguri
 Full Stack Developer
 --------------------
 
-I'm a Full stack and unity developer. Also, I'm a 2st year computer science student.
+I'm a Full stack and unity developer. Also, I'm a 3st year computer science student.
 
 * 🌍  I'm based in Israel
 * 🧠  I'm learning React & NODEJS & MongoDB/PostgreSQL & Redis
